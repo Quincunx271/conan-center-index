@@ -1,0 +1,6 @@
+sources:
+  "1.0.0-alpha.1":
+    url: [
+      "https://github.com/Quincunx271/TerseLambda/archive/refs/tags/v1.0.0-alpha.1.tar.gz",
+    ]
+    sha256: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
